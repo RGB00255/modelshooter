@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"            "Model Shooter"
+	"version"         "1.0"
+	"up_date"         "06/10/16"
+	"author_name"     "Gman1255"
+	"author_url"      "http://steamcommunity.com/id/prune_juice/"
+}
