@@ -2,6 +2,7 @@
 *   This is my first SWEP :)   *
 *        By: Gman1255          *
 *******************************/
+
 SWEP.PrintName = "Model Shooter"
 SWEP.Author = "Gman1255"
 SWEP.Instructions = "Shoot props without remorse"
@@ -84,4 +85,3 @@ function SWEP:ShootModel(Model, Sound)
 		undo.SetPlayer(self.Owner)
 	undo.Finish()
 end
-
