@@ -11,4 +11,4 @@ Putting it up here on GitHub in case I decide to work on it in the future. Here 
     Limit amount of models spawned in - cvar, default 30?
     Shotgun varient (ModelShotgun), would shoot nine in a square like matrix. (*new)
 
-If you want to try it for yourself just clone this directory and put the repo folder in your addons folder. Rename it too so it does not look ugly, and you may have to delete the git related files (.gitignore, LICENSE, README.md) I am not sure if Garry's Mod is okay with those random files being in there. Good luck!
+If you want to try it for yourself just download from releases: https://github.com/RGB00255/modelshooter/releases/tag/release you just have to put it in your addons folder, like the good old days. :')
